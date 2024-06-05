@@ -1,4 +1,3 @@
-# tcc-FixON
- Completion of course work
+# TCC-FixON
 
-Type in cmd after creating the project: "npm audit fix --force" to install node-modules, wait and start.
+Digite cmd após criar o projeto: "npm audit fix --force", aguarde e inicie.
